@@ -10,8 +10,6 @@ group :development do
 	gem 'sqlite3', '1.3.8'
 end
 
-gem 'sqlite3', '1.3.8'
-
 # Use PostgreSQL dababase
 # Rails 12 factor is used by Heroku to serve static assets such as images and stylesheets.
 group :production do
